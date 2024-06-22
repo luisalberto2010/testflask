@@ -1,13 +1,8 @@
 Flask
 keras
-matplotlib
-numba
+MarkupSafe
 numpy
 opencv_python
 pandas
-plotly
-scipy
-tensorflow
-scikit_learn
 gunicorn
 
