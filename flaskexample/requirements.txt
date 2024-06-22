@@ -1,13 +1,13 @@
-Flask>=2.2.2
-keras==3.0.0
-matplotlib==3.5.2
-numba==0.60.0
-numpy==2.0.0
-opencv_python==4.10.0.84
-pandas==1.4.4
-plotly==5.9.0
-scipy==1.13.1
-tensorflow==2.16.1
-scikit_learn==0.22.1
-gunicorn==20.0.4
+Flask
+keras
+matplotlib
+numba
+numpy
+opencv_python
+pandas
+plotly
+scipy
+tensorflow
+scikit_learn
+gunicorn
 
